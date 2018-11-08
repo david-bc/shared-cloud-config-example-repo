@@ -1,1 +1,5 @@
+info.testing: false
+---
+spring.profiles: testing
+
 info.testing: true
