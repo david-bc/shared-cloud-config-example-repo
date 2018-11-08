@@ -2,3 +2,7 @@ spring:
   datasource:
     username: dbuser
     password: "{cipher}0f1fdbeea5e966e9cbf4a6f2f94d456e8cd15c0ab905758bf4655022d5be483f"
+secrets:
+  k1: "{cipher}{key:k1}f69cbb4c810c82a2b7d0e8f7bcecd1626cf7fb346a0d8bdacc668615dc8cac93"
+  k1: "{cipher}{key:k2}72575e93e3dbc393229f3daa56c8612ba11006540d8116bad5a02ee52bc560bb"
+  k1: "{cipher}{key:k3}0adb53cecdcf8e2782c579fb012dbdeca0ccdf80de394553f247206b8a44e2e2"
